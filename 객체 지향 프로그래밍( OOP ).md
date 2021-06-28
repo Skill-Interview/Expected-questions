@@ -25,11 +25,10 @@
 * 서로 다른 클래스의 객체가 같은 메시지를 받았을 때 각자의 방식으로 동작하는 능력 
 * 어떤 변수,메소드가 상황에 따라 다른 결과를 내는 것 
 ###### 오버로딩(Overloading) : 같은 이름의 메소드(method) 또는 생성자지만 입력 받은 매개변수의 타입과 갯수에 따라 다른 액션을 취하도록 하는 것
-###### 오버라이딩(Overriding) : 부모클래스로부터 메소드를 상속 받았으나, 그 메소드(매개변수, 리턴 타입이 완전히 같은)를 자식클래스에서 재정의 하여 사용하는 것
- <br/>
- <br/>
-## OOP의 5대 원칙 (SOLID)
- <br/>
+###### 오버라이딩(Overriding) : 부모클래스로부터 메소드를 상속 받았으나, 그 메소드(매개변수, 리턴 타입이 완전히 같은)를 자식클래스에서 재정의 하여 사용하는 것   
+
+## OOP의 5대 원칙 (SOLID)   
+   
 #### S: 단일 책임 원칙(SRP, Single Responsibility Principle)
 * 객체는 단 하나의 책임만 가져야 한다.
 #### O: 개방-폐쇄 원칙(OCP, Open Closed Principle)
@@ -40,8 +39,7 @@
 * 의존 관계를 맺을 때 변화하기 쉬운 것 또는 자주 변화하는 것보다는 변화하기 어려운 것, 거의 변화가 없는 것에 의존하라는 것이다.
 #### D: 인터페이스 분리 원칙(ISP, Interface Segregation Principle)
 * 인터페이스를 클라이언트에 특화되도록 분리시키라는 설계 원칙이다.
- <br/>
- <br/>
+   
 ###### 출처 : https://velog.io/@ygh7687/OOP%EC%9D%98-5%EC%9B%90%EC%B9%99%EA%B3%BC-4%EA%B0%80%EC%A7%80-%ED%8A%B9%EC%84%B1
 ###### 출처 : [https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-java.html]
 ###### 출처 : https://knoc-story.tistory.com/27
