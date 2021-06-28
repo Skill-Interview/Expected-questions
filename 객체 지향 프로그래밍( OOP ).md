@@ -11,7 +11,7 @@
 * 실제로 구현 부분을 외부에 드러나지 않도록 하는 것 
 * 변수와 메소드를 하나로 묶음 
 * 데이터를 외부에서 직접 접근하지 않고 함수를 통해서만 접근 
- ###### ex) public, private, protected
+    * ###### ex) public, private, protected
  ###### public : 클래스 외부에서 접근 가능
  ###### private : 클래스 내부에서만 접근 가능
  ###### protected : 상속받은 자식 클래스에서만 접근 가능
