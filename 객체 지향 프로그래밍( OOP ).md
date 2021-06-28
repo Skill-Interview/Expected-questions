@@ -41,6 +41,6 @@
 ### D: 인터페이스 분리 원칙(ISP, Interface Segregation Principle)
 * 인터페이스를 클라이언트에 특화되도록 분리시키라는 설계 원칙이다.
 
-*출처 : https://velog.io/@ygh7687/OOP%EC%9D%98-5%EC%9B%90%EC%B9%99%EA%B3%BC-4%EA%B0%80%EC%A7%80-%ED%8A%B9%EC%84%B1
-*출처 : [https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-java.html](https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-java.html)
-*출처 : https://knoc-story.tistory.com/27
+* 출처 : https://velog.io/@ygh7687/OOP%EC%9D%98-5%EC%9B%90%EC%B9%99%EA%B3%BC-4%EA%B0%80%EC%A7%80-%ED%8A%B9%EC%84%B1
+* 출처 : [https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-java.html]
+* 출처 : https://knoc-story.tistory.com/27
