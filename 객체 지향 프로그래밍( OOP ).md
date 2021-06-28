@@ -1,6 +1,6 @@
 # 객체 지향 프로그래밍( OOP )
 
-## <span style="color:red">OOP의 4가지 특징</span>
+ <span style="color:red">OOP의 4가지 특징</span>
 
 ### 1. 추상화 
 * 구체적인 사물들의 공통적인 특징을 파악해서 이를 하나의 개념(집합)으로 다루는 것
