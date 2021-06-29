@@ -8,6 +8,7 @@ Data Access Object 데이터베이스의 data에 접근하기 위한 객체
 
 싱글턴 형태로 생성하여 주로 사용하며, 데이터베이스 제어를 위해 빈도있게 사용하는 모듈
 
+
 🧡 DTO
 
 Data Transfer Object  데이터 전송 객체
@@ -16,6 +17,7 @@ Controller, View.. 등 계층간 데이터 교환을 위한 객체들
 
 GETTER, SETTER 메소드만 가진 클래스
 
+
 🧡 VO
 
 Value Object
@@ -23,6 +25,7 @@ Value Object
 Controller, View.. 등 계층간 데이터 교환을 위한 객체들
 
 내용물이 값 자체를 의미하기 때문에 read Only 특징을 가지고 있음
+
 
 🧡 그렇다면 VO와 DTO 의 차이점은?
 
