@@ -8,6 +8,8 @@ comments: true
 
 # 기술면접 - Spring MVC 작동 원리
 
+    - Spring 프레임워크에서 제공하는 웹 모듈이다.
+
 ### 🎈Spring MVC 작동 원리
 ![springMVC](https://user-images.githubusercontent.com/65608960/123964406-55ceeb80-d9ee-11eb-83fb-79cc81bae62a.JPG)
 
